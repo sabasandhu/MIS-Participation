@@ -1,4 +1,5 @@
 ﻿// Saba Sandhu 
+//random generator example 
 using System;
 using System.Collections.Generic;
 using System.Linq;
