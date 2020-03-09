@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particpation Programming", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayandListsExample", "ConsoleApp1\ArrayandListsExample.csproj", "{7F5F562A-674E-4DDB-8403-B6602B3D640B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsCalculator", "ConsoleApp2\FunctionsCalculator.csproj", "{C417AD64-9146-45FC-AECA-576CE5E49AF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7F5F562A-674E-4DDB-8403-B6602B3D640B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F5F562A-674E-4DDB-8403-B6602B3D640B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F5F562A-674E-4DDB-8403-B6602B3D640B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C417AD64-9146-45FC-AECA-576CE5E49AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C417AD64-9146-45FC-AECA-576CE5E49AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C417AD64-9146-45FC-AECA-576CE5E49AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C417AD64-9146-45FC-AECA-576CE5E49AF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
