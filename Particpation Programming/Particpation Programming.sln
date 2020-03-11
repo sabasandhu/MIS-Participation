@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayandListsExample", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionsCalculator", "ConsoleApp2\FunctionsCalculator.csproj", "{C417AD64-9146-45FC-AECA-576CE5E49AF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticipationFunctions2", "ParticipationFunctions2\ParticipationFunctions2.csproj", "{AB814476-88BA-4525-9A48-DE248DB80590}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C417AD64-9146-45FC-AECA-576CE5E49AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C417AD64-9146-45FC-AECA-576CE5E49AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C417AD64-9146-45FC-AECA-576CE5E49AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB814476-88BA-4525-9A48-DE248DB80590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB814476-88BA-4525-9A48-DE248DB80590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB814476-88BA-4525-9A48-DE248DB80590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB814476-88BA-4525-9A48-DE248DB80590}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
